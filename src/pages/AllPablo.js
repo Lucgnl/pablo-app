@@ -5,6 +5,10 @@ function AllPablo()
     return (
         <section>
             <h1>
+                Biography:
+            </h1>
+            <p>Pablo is a young child who is of the Nigerian origin.</p>
+            <h1>
                 PABLO PICS ;)
             </h1>
             <PabloImg src='./pablo.jpg'/>
