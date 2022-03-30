@@ -6,7 +6,6 @@ function AllPablo()
         <section>
             <h1>
                 PABLO PICS ;)
-                Sheehs
             </h1>
             <PabloImg src='./pablo.jpg'/>
             <PabloImg src='https://static.wikia.nocookie.net/8235f47d-e93c-4969-ac47-56d57e62569f'/>
