@@ -1,0 +1,13 @@
+.header a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #ffffff;
+  }
+  
+.header a:hover {
+    color: rgb(0, 119, 255);
+  }
+
+.header h2 {
+    color: #df2dd0;
+}
