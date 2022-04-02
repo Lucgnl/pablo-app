@@ -5,7 +5,7 @@ function NavBar() {
   return (
     <header className={classes.header}>
       <Link to='/'>
-        <div className={classes.logo}>Weakly Interview</div>
+        <div className={classes.logo}>Weekly Interview</div>
       </Link>
       <nav>
         <ul>
